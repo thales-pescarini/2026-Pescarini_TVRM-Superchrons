@@ -1,7 +1,11 @@
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
-/Fig*
+/Fig*.png
+/Fig*.pdf
+/Fig*.svg
+/Fig*.json
+/Fig*.csv
 /nama_rscm_per_*.csv
 /ensemble31_*
 /trout_run_new/

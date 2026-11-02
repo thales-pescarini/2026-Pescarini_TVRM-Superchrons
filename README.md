@@ -80,7 +80,9 @@ Both commands read `data/trout_run/` and write their products to the current wor
 ```bash
 python trout/trout_batch.py "<MagIC data root>" trout_run_new
 python trout/gates.py trout_run_new
-``` The MagIC tables (`measurements.txt`, `specimens.txt`, `samples.txt`, `sites.txt`) of Pescarini et al. (2025) are read from
+```
+
+The MagIC tables (`measurements.txt`, `specimens.txt`, `samples.txt`, `sites.txt`) of Pescarini et al. (2025) are read from
 
 ```
 <data root>/_TROUT_MAGIC_STAGING/DT   <data root>/1B/1B_TT_set1_   <data root>/1B/1B_TT_set2_
