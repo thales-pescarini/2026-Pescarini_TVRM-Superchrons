@@ -1,0 +1,13 @@
+# Figures 4-7 and Tables S1-S7
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+# Fig. 1, Fig. 3 and the TROUT fits
+pmagpy
+jax
+emcee
+scikit-learn
+adjustText
+cartopy
+shapely

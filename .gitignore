@@ -1,0 +1,19 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+/Fig*
+/nama_rscm_per_*.csv
+/ensemble31_*
+/trout_run_new/
+data/trout_run/gates_result.csv
+trout/trout.py
+
+# Local environments and private configuration
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+*.py[cod]
+.pytest_cache/

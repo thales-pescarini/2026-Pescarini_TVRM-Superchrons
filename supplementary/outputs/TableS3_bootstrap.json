@@ -1,0 +1,29 @@
+{
+ "bootstrap_95pct": {
+  "Cbulk_median": [
+   0.3076,
+   0.3177
+  ],
+  "MRS_share_median": [
+   0.8747,
+   0.9032
+  ],
+  "rms_pre": [
+   0.1075,
+   0.1198
+  ],
+  "rms_post": [
+   0.1435,
+   0.1557
+  ]
+ },
+ "n_subelements": {
+  "every_5th_step": 59118,
+  "every_step": 295612
+ },
+ "mean_of_medians_Ma": {
+  "every_5th_step": 475.41,
+  "every_step": 475.43
+ },
+ "max_abs_specimen_median_diff_Myr": 0.215
+}

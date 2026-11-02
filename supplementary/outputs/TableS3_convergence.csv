@@ -1,0 +1,7 @@
+variation,C_bulk,MRS_share,RMS_eff_pre_post,resultant_reversed_all
+"Reference (0.01 Myr, every 5th step, seeds 200–599)",0.312 (0.225–0.410),0.889 (0.678–1.235),0.113/0.149,True
+Time step 0.005 Myr,0.313 (0.224–0.413),0.888 (0.673–1.239),0.114/0.149,True
+Every temperature step,0.316 (0.232–0.405),0.879 (0.687–1.198),0.110/0.153,True
+First 100 histories,0.311 (0.234–0.397),0.895 (0.700–1.186),0.105/0.146,True
+First 200 histories,0.310 (0.232–0.408),0.895 (0.680–1.195),0.110/0.147,True
+Independent seeds 600–999,0.319 (0.219–0.416),0.872 (0.668–1.269),0.115/0.150,True

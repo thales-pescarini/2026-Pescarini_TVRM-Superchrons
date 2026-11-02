@@ -1,0 +1,11 @@
+{
+ "geometries_per_speed": 704,
+ "worst_geometry": {
+  "lat": -15.0,
+  "axis": 32
+ },
+ "n_subelements": 374,
+ "fixed_CbarRMS_lambda2": 0.37621872758702823,
+ "closed_form_lambda2": 0.37619163983227333,
+ "reference_Cbulk_median": 0.312467531613569
+}

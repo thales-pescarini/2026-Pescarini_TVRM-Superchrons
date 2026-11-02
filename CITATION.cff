@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article."
+title: "Thermoviscous remagnetization of the Nama Group: model code and derived data"
+authors:
+  - family-names: Pescarini
+    given-names: Thales
+    orcid: "https://orcid.org/0000-0001-6130-6546"
+license: MIT
+version: "1.0.0"
+repository-code: "https://github.com/thales-pescarini/nama-tvrm-gji"

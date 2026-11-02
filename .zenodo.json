@@ -1,0 +1,44 @@
+{
+  "title": "Thermoviscous remagnetization of the Nama Group: model code and derived data",
+  "upload_type": "software",
+  "description": "Code and derived data reproducing Figs 3-7 and Tables S1-S7 of the manuscript 'Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons' (submitted to Geophysical Journal International): TROUT unmixing and specimen selection, RSCM band fitting, thermoviscous reset, continuous-cooling blocking ages and reversal-coherence filter.",
+  "creators": [
+    {
+      "name": "Pescarini, Thales",
+      "orcid": "0000-0001-6130-6546",
+      "affiliation": "Universidade de São Paulo"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "palaeomagnetism",
+    "remagnetization",
+    "thermoviscous remanence",
+    "superchron",
+    "Nama Group",
+    "TROUT",
+    "RSCM"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1029/2024JB030612",
+      "relation": "references",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.5281/zenodo.13974746",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23896190",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.1029/2023GC010920",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ]
+}
