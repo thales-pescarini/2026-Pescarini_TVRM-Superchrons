@@ -1,6 +1,6 @@
 # Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23922849.svg)](https://doi.org/10.5281/zenodo.23922849)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23922849-blue)](https://doi.org/10.5281/zenodo.23922849)
 
 Code and derived data for Pescarini et al., submitted to *Geophysical Journal International*.
 
