@@ -1,5 +1,7 @@
 # Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23922849.svg)](https://doi.org/10.5281/zenodo.23922849)
+
 Code and derived data for Pescarini et al., submitted to *Geophysical Journal International*.
 
 The scripts model thermoviscous resetting and continuous-cooling blocking of single-domain pyrrhotite and magnetite, and the vector cancellation of the acquired moment under a stochastic geomagnetic polarity history. The remagnetized carbonates of the Nama Group (Namibia) are the case study; the TROUT unmixing of the demagnetization data and the Raman thermometry that constrain the model are included. The scripts reproduce Figs 1 and 3–7 and Tables S1–S7.
