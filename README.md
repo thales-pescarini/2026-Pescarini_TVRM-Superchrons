@@ -1,6 +1,6 @@
 # Nama Group thermoviscous remagnetization: code and derived data
 
-Code and derived data for "Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons" (submitted to *Geophysical Journal International*). The scripts reproduce Figs 3–7 and Tables S1–S7.
+Code and derived data for "Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons" (submitted to *Geophysical Journal International*). The scripts reproduce Figs 1 and 3–7 and Tables S1–S7.
 
 Reference parameters (Table 1): T_peak = 266 °C, peak conditions from 507 Ma, cooling from 500 Ma, cooling rate 2 °C/Myr, f_Po = 0.85 below 320 °C, τ0 = 1e-9 s, laboratory time 40 min, Moyero Reversed Superchron (MRS) 485.0–466.1 Ma. The ensemble is the 31 specimens in `data/trout_run/ensemble_membership.txt`; the polarity ensemble is 400 histories with seeds 200–599.
 
