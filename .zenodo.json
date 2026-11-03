@@ -1,7 +1,7 @@
 {
-  "title": "Thermoviscous remagnetization of the Nama Group: model code and derived data",
+  "title": "Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons",
   "upload_type": "software",
-  "description": "Code and derived data reproducing Figs 3-7 and Tables S1-S7 of the manuscript 'Slow cooling and the geomagnetic polarity history link protracted thermoviscous remagnetization to superchrons' (submitted to Geophysical Journal International): TROUT unmixing and specimen selection, RSCM band fitting, thermoviscous reset, continuous-cooling blocking ages and reversal-coherence filter.",
+  "description": "Code and derived data for Pescarini et al., submitted to Geophysical Journal International. The scripts model thermoviscous resetting and continuous-cooling blocking of single-domain pyrrhotite and magnetite, and the vector cancellation of the acquired moment under a stochastic geomagnetic polarity history. The remagnetized carbonates of the Nama Group (Namibia) are the case study; the TROUT unmixing of the demagnetization data and the Raman thermometry that constrain the model are included. The workflow also includes specimen selection, RSCM band fitting and a reversal-coherence filter. The scripts reproduce Figs 1 and 3–7 and Tables S1–S7.",
   "creators": [
     {
       "name": "Pescarini, Thales",
